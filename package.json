@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "firebase": "^9.9.4",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-instagram-login": "1.4.0",

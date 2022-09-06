@@ -74,7 +74,7 @@ body {
   margin-top: 3rem;
 }
 
-.form-data form {
+.form-data section {
   background-color: #fff;
   border: 2px solid #eee;
   display: flex;
@@ -90,7 +90,7 @@ body {
 }
 
 /*form input styling*/
-.form-data form input {
+.form-data section input {
   padding: 0.8rem;
   margin-bottom: 0.5rem;
   border: 2px solid #eee;
